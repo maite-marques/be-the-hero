@@ -1,9 +1,9 @@
 # be-the-hero
+![bethehero-logo](https://user-images.githubusercontent.com/42325663/82691800-e5736980-9c34-11ea-9520-9331c72489d9.png)
+<br><br><br>Este projeto foi desenvolvido durante a 11a Semana Omnistack da <a href="https://rocketseat.com.br"> RocketSeat</a>. 
+<br><br>
 
-Este projeto foi desenvolvido durante a 11a Semana Omnistack da <a href="https://rocketseat.com.br"> RocketSeat</a>. 
-
-
-## Technologies
+## :woman_technologist: Technologies
 
 <ul>
 <li><a href="https://reactjs.org">ReactJS</a> // JavaScript library for building user interface<br>
@@ -17,3 +17,6 @@ Este projeto foi desenvolvido durante a 11a Semana Omnistack da <a href="https:/
 <li><a href="https://www.sqlite.org/index.html">SqLite</a>   // SQL database engine.<br>
 <li><a href="https://code.visualstudio.com">VSCode</a>    Microsoft free code editor.<br>
 </ul>
+
+<br><br>
+Always learning :books: Maitê
