@@ -18,5 +18,11 @@
 <li><a href="https://code.visualstudio.com">VSCode</a>    Microsoft free code editor.<br>
 </ul>
 
+## Visualizar o projeto na IDE:
+
+Para quem quiser visualizar o projeto na IDE é possível utilizar este recurso do GitHub:
+
+https://github1s.com/maite-marques/be-the-hero
+
 <br><br>
 Always learning :books: Maitê
