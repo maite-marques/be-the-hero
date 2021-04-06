@@ -25,4 +25,4 @@ Para quem quiser visualizar o projeto na IDE é possível utilizar este recurso 
 https://github1s.com/maite-marques/be-the-hero
 
 <br><br>
-Always learning :books: Maitê
+Always learning :books: Maitê M
